@@ -1,0 +1,17 @@
+# Project exclude paths
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# Build output directories
+build/
+out/
+
+# Gradle local build cache
+.gradle/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
